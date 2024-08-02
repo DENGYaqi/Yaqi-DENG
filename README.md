@@ -1,73 +1,26 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you. I'm DENG Yaqi</h1>
 
-<p>Welcome to my page! </br> I'm DENG Yaqi, Backend Engineer and Android Developer from China. </p>
-
-
-## ⚡ Platforms
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-## ⚡ Tec Stacks
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Go](https://img.shields.io/badge/-go-%23E44D27?style=flat-square&logo=go&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-<img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FranzKafkaYu&theme=cobalt2&show_icons=true&card_width=495px)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FranzKafkaYu&show_icons=true&theme=tokyonight)  
-
-
-<div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=DENGYaqi&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
-<div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=DENGYaqi&show_icons=true&theme=radical&hide=contribs,prs" />
-</div>
-
-
-<div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DENGYaqi&layout=compact" />
-</div>
-
-## 🌎 Find me  
-- 邮箱:<a href="mailto:yaqidengtravail@gmail.com">yaqidengtravail@gmail.com</a>:e-mail:
-<!-- 
-- 博客: click [FranzKafkaBlog](https://coderfan.net/):memo: 
--->
-<!-- 
-- 微信公众号: 搜索 **Xndroid**✍🏾 
--->
-
-<!-- 
-## 🚀 Blog Posts
--->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- 
-- [Android C/C++开发嵌入汇编代码](https://coderfan.net/android-c-c-plus-inline-assemble.html?utm_source=rss&utm_medium=rss&utm_campaign=android-c-c-plus-inline-assemble)
-- [Android系统ANR浅析](https://coderfan.net/android-system-anr-analysis.html?utm_source=rss&utm_medium=rss&utm_campaign=android-system-anr-analysis)
-- [Android设备adb shell命令行提示符定制修改](https://coderfan.net/android-adb-shell-command-line-prompt-modification.html?utm_source=rss&utm_medium=rss&utm_campaign=android-adb-shell-command-line-prompt-modification)
-- [诡异的Android makefile编译流程控制问题](https://coderfan.net/android-makefile-conditional-control-problem.html?utm_source=rss&utm_medium=rss&utm_campaign=android-makefile-conditional-control-problem)
-- [Android应用四大组件之Activity](https://coderfan.net/android-application-development-activity.html?utm_source=rss&utm_medium=rss&utm_campaign=android-application-development-activity)
--->
-<!-- BLOG-POST-LIST:END -->
-
-## 🌎 Visitors
-[![Visits Badge][(https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)](https://github.com/DENGYaqi)
-
+<p>I'm currently a Backend Engineer at Hangzhou of China. </br>
+I am working on some side projects, learn to make small games, and trying to conquer the world as SpongeBob SquarePants. </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DENGYaqi/DENGYaqi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DENGYaqi/DENGYaqi/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DENGYaqi/DENGYaqi/output/github-contribution-grid-snake.svg">
 </picture>
+
+<h3>Things I code with</h3>
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/DENGYaqi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/deng-yaqi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+</p>
