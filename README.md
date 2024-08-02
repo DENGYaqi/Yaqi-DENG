@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm DENG Yaqi, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Shenzhen, China</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Hangzhou, China</b>. </p>
+<p>Welcome to my page! </br> I'm DENG Yaqi, Backend Engineer and Android Developer from China. </p>
 
 
 ## ⚡ Platforms
