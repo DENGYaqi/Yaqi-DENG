@@ -3,15 +3,6 @@
 <p>I'm currently a Backend Engineer at Hangzhou of China. </br>
 I am working on some side projects, learn to make small games, and trying to conquer the world as SpongeBob SquarePants. </p>
 
-<h3>this week i spent my time on</h3>
-
-```txt
-Java          5 hrs 55 mins   ██████████░░░░░░░░░░░░░░░   39.57 %
-Python        5 hrs 20 mins   █████████░░░░░░░░░░░░░░░░   35.76 %
-JSON          2 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   19.89 %
-Bash          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-HTML          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-```
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DENGYaqi/DENGYaqi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DENGYaqi/DENGYaqi/output/github-contribution-grid-snake.svg">
