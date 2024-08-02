@@ -3,12 +3,6 @@
 <p>I'm currently a Backend Engineer at Hangzhou of China. </br>
 I am working on some side projects, learn to make small games, and trying to conquer the world as SpongeBob SquarePants. </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DENGYaqi/DENGYaqi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DENGYaqi/DENGYaqi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DENGYaqi/DENGYaqi/output/github-contribution-grid-snake.svg">
-</picture>
-
 <h3>this week i spent my time on</h3>
 
 ```txt
@@ -18,6 +12,11 @@ JSON          2 hrs 58 mins   █████░░░░░░░░░░░�
 Bash          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 HTML          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DENGYaqi/DENGYaqi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DENGYaqi/DENGYaqi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DENGYaqi/DENGYaqi/output/github-contribution-grid-snake.svg">
+</picture>
 
 <h3>Things I code with</h3>
 <p>
