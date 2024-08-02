@@ -24,6 +24,10 @@
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FranzKafkaYu&show_icons=true&theme=tokyonight)  
 
 
+<div align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=DENGYaqi&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
 ## 🌎 Find me  
 - 邮箱:<a href="mailto:yaqidengtravail@gmail.com">yaqidengtravail@gmail.com</a>:e-mail:
 <!-- 
