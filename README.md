@@ -32,6 +32,11 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=DENGYaqi&show_icons=true&theme=radical&hide=contribs,prs" />
 </div>
 
+
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DENGYaqi&layout=compact" />
+</div>
+
 ## 🌎 Find me  
 - 邮箱:<a href="mailto:yaqidengtravail@gmail.com">yaqidengtravail@gmail.com</a>:e-mail:
 <!-- 
