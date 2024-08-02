@@ -1,6 +1,8 @@
-### Hi I'm Yaqi DENG 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<p>Welcome to my page! </br> I'm DENG Yaqi, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Shenzhen, China</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Hangzhou, China</b>. </p>
+
+
 ## ⚡ Platforms
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
