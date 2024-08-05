@@ -12,7 +12,7 @@ I am working on some side projects, learn to make small games, and trying to con
 <h3>My latest posts</h3>
 <ul>
   <li>
-    <a href="https://dengyaqi.github.io/skills-github-pages/2024/08/02/blog.html">
+    <a href="https://dengyaqi.github.io/">
       <b>
         <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new"/> 
         Create Your First Ethereum Smart Contract With Remix IDE</b>
