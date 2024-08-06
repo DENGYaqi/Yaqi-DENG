@@ -15,7 +15,7 @@ I am working on some side projects, learn to make small games, and trying to con
     <a href="https://dengyaqi.github.io/">
       <b>如何构建Github博客 - Github Pages</b>
     </a>
-    <br/><i>通过Chirpy Starter快速构建Github Pages博客</i></li>
+    <br/><i>入门级快速搭建个人博客</i></li>
 </ul>
 
 <h3>Some Tools I Use</h3>
