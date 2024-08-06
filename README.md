@@ -13,11 +13,9 @@ I am working on some side projects, learn to make small games, and trying to con
 <ul>
   <li>
     <a href="https://dengyaqi.github.io/">
-      <b>
-        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new"/> 
-        Create Your First Ethereum Smart Contract With Remix IDE</b>
+      <b>如何构建Github博客 - Github Pages</b>
     </a>
-    <br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
+    <br/><i>通过Chirpy Starter快速构建Github Pages博客</i></li>
 </ul>
 
 <h3>Some Tools I Use</h3>
